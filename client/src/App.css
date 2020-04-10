@@ -1,0 +1,102 @@
+:root {
+  --primary-color: #17a2b8;
+  --dark-color: #343a40;
+  --light-color: #f4f4f4;
+  --danger-color: #dc3545;
+  --success-color: #28a745;
+}
+
+::placeholder {
+  color: black;
+  font-weight: bold;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.searchbar {
+  padding: 10px;
+  width: 100%;
+}
+
+.input-field {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#search {
+  background-color: #ffcc80;
+}
+
+nav {
+  padding: 0;
+  margin-bottom: 0px;
+}
+
+.mlr-3 {
+  margin-left: 3rem;
+  margin-right: 3rem;
+}
+
+.mr-2 {
+  margin-right: 2rem;
+}
+
+.mt-3 {
+  margin-top: 3rem;
+}
+
+.nav-wrapper {
+  margin: 0px;
+  padding: 0px;
+}
+
+.alert {
+  padding: 0.3rem;
+  margin: 1rem 0;
+  opacity: 0.9;
+  background: var(--light-color);
+  color: #333;
+  text-align: center;
+}
+
+.alert-primary {
+  background: var(--primary-color);
+  color: #fff;
+}
+
+.alert-light {
+  background: var(--light-color);
+  color: #333;
+}
+
+.alert-dark {
+  background: var(--dark-color);
+  color: #fff;
+}
+
+.alert-danger {
+  background: var(--danger-color);
+  color: #fff;
+}
+
+.alert-success {
+  background: var(--success-color);
+  color: #fff;
+}
+
+.with-header {
+  margin-top: 30px;
+}
+
+.collection-header {
+  background-color: orange !important;
+  margin-bottom: 10px;
+  color: white;
+}
+
+nav .brand-logo i {
+  float: none !important;
+  height: 100%;
+}
