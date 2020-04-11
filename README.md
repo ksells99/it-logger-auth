@@ -10,4 +10,4 @@ Tickets can be set as requiring attention or not, which in turn changes certain 
 
 The styling/CSS isn't perfect and the app is best viewed on desktop rather than mobile, but this was more of a MERN stack project rather than a CSS showcase!
 
-The application is hosted on Heroku and can be accessed here: **https://ksells-it-ticket-logger.herokuapp.com/**
+The application is hosted on Heroku and can be accessed here: **https://ksells-it-ticket-logger-auth.herokuapp.com/**
